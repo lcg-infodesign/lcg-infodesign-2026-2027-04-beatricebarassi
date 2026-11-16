@@ -1,0 +1,122 @@
+date,continent,grand_prix,circuit,winner_name,team,time,laps,year
+2020-07-05,Europe,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,01:30:55,71.0,2020
+2020-07-12,Europe,Styria,Red Bull Ring,Lewis Hamilton,Mercedes,01:22:50,71.0,2020
+2020-07-19,Europe,Hungary,Hungaroring,Lewis Hamilton,Mercedes,01:36:12,70.0,2020
+2020-08-02,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:28:01,52.0,2020
+2020-08-09,Europe,Great Britain,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda,01:19:41,52.0,2020
+2020-08-16,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:31:45,66.0,2020
+2020-08-30,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:24:08,44.0,2020
+2020-09-06,Europe,Italy,Autodromo Nazionale di Monza,Pierre Gasly,AlphaTauri Honda,01:47:06,53.0,2020
+2020-09-13,Europe,Italy,Autodromo Internazionale del Mugello,Lewis Hamilton,Mercedes,02:19:35,59.0,2020
+2020-09-27,Europe,Russia,Sochi Autodrom,Valtteri Bottas,Mercedes,01:34:00,53.0,2020
+2020-10-11,Europe,Germany,Nürburgring,Lewis Hamilton,Mercedes,01:35:49,60.0,2020
+2020-10-25,Europe,Portugal,Algarve International Circuit,Lewis Hamilton,Mercedes,01:29:56,66.0,2020
+2020-11-01,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,01:28:32,63.0,2020
+2020-11-15,Asia,Turkiye,Istanbul Park,Lewis Hamilton,Mercedes,01:42:19,58.0,2020
+2020-11-29,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,02:59:47,57.0,2020
+2020-12-06,Asia,Sakhir,Bahrain International Circuit,Sergio Perez,Racing Point BWT Mercedes,01:31:15,87.0,2020
+2020-12-13,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,01:36:28,55.0,2020
+2021-03-28,Asia,Sakhir,Bahrain International Circuit,Lewis Hamilton,Mercedes,01:32:03,56.0,2021
+2021-04-18,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing Honda,02:02:34,63.0,2021
+2021-05-02,Europe,Portugal,Algarve International Circuit,Lewis Hamilton,Mercedes,01:34:31,66.0,2021
+2021-05-09,Europe,Spain,Circuit de Barcelona Catalunya,Lewis Hamilton,Mercedes,01:33:07,66.0,2021
+2021-05-23,Europe,Monaco,Circuit de Monaco,Max Verstappen,Red Bull Racing Honda,01:38:56,78.0,2021
+2021-06-06,Asia,Azerbaijan,Baku City Circuit,Sergio Perez,Red Bull Racing Honda,02:13:36,51.0,2021
+2021-06-20,Europe,France,Circuit Paul Ricard,Max Verstappen,Red Bull Racing Honda,01:27:25,53.0,2021
+2021-06-27,Europe,Styria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,01:22:18,71.0,2021
+2021-07-04,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,01:23:54,71.0,2021
+2021-07-18,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:58:23,52.0,2021
+2021-08-01,Europe,Hungary,Hungaroring,Esteban Ocon,Alpine Renault,02:04:43,70.0,2021
+2021-08-29,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing Honda,3:27,1.0,2021
+2021-09-05,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing Honda,01:30:05,72.0,2021
+2021-09-12,Europe,Italy,Autodromo Nazionale di Monza,Daniel Ricciardo,McLaren Mercedes,01:21:54,53.0,2021
+2021-09-26,Europe,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,01:30:41,53.0,2021
+2021-10-10,Asia,Turkiye,Istanbul Park,Valtteri Bottas,Mercedes,01:31:04,58.0,2021
+2021-10-24,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda,01:34:36,56.0,2021
+2021-11-07,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing Honda,01:38:39,71.0,2021
+2021-11-14,South America,Brazil,Autodromo José Carlos Pace,Lewis Hamilton,Mercedes,01:32:22,71.0,2021
+2021-11-21,Asia,Qatar,Lusail International Circuit,Lewis Hamilton,Mercedes,01:24:28,57.0,2021
+2021-12-05,Asia,Saudi Arabia,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,02:06:15,50.0,2021
+2021-12-12,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,01:30:17,58.0,2021
+2022-03-20,Asia,Sakhir,Bahrain International Circuit,Charles Leclerc,Ferrari,01:37:33,57.0,2022
+2022-03-27,Asia,Saudi Arabia,Jeddah Corniche Circuit,Max Verstappen,Red Bull Racing RBPT,01:24:19,50.0,2022
+2022-04-10,Oceania,Australia,Albert Park Circuit,Charles Leclerc,Ferrari,01:27:46,58.0,2022
+2022-04-24,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing RBPT,01:32:07,63.0,2022
+2022-05-08,North America,United States,Miami International Autodrome,Max Verstappen,Red Bull Racing RBPT,01:34:24,57.0,2022
+2022-05-22,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing RBPT,01:37:20,66.0,2022
+2022-05-29,Europe,Monaco,Circuit de Monaco,Sergio Perez,Red Bull Racing RBPT,01:56:30,64.0,2022
+2022-06-12,Asia,Azerbaijan,Baku City Circuit,Max Verstappen,Red Bull Racing RBPT,01:34:05,51.0,2022
+2022-06-19,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing RBPT,01:36:21,70.0,2022
+2022-07-03,Europe,Great Britain,Silverstone Circuit,Carlos Sainz,Ferrari,02:17:50,52.0,2022
+2022-07-10,Europe,Austria,Red Bull Ring,Charles Leclerc,Ferrari,01:24:24,71.0,2022
+2022-07-24,Europe,France,Circuit Paul Ricard,Max Verstappen,Red Bull Racing RBPT,01:30:02,53.0,2022
+2022-07-31,Europe,Hungary,Hungaroring,Max Verstappen,Red Bull Racing RBPT,01:39:35,70.0,2022
+2022-08-28,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing RBPT,01:25:52,44.0,2022
+2022-09-04,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing RBPT,01:36:42,72.0,2022
+2022-09-11,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing RBPT,01:20:27,53.0,2022
+2022-10-02,Asia,Singapore,Marina Bay Street Circuit,Sergio Perez,Red Bull Racing RBPT,02:02:20,59.0,2022
+2022-10-09,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing RBPT,03:01:44,28.0,2022
+2022-10-23,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing RBPT,01:42:11,56.0,2022
+2022-10-30,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing RBPT,01:38:36,71.0,2022
+2022-11-13,South America,Brazil,Autodromo José Carlos Pace,George Russell,Mercedes,01:38:34,71.0,2022
+2022-11-20,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing RBPT,01:27:45,58.0,2022
+2023-03-05,Asia,Sakhir,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:33:56,57.0,2023
+2023-03-19,Asia,Saudi Arabia,Jeddah Corniche Circuit,Sergio Perez,Red Bull Racing Honda RBPT,01:21:14,50.0,2023
+2023-04-02,Oceania,Australia,Albert Park Circuit,Max Verstappen,Red Bull Racing Honda RBPT,02:32:38,58.0,2023
+2023-04-30,Asia,Azerbaijan,Baku City Circuit,Sergio Perez,Red Bull Racing Honda RBPT,01:32:42,51.0,2023
+2023-05-07,North America,United States,Miami International Autodrome,Max Verstappen,Red Bull Racing Honda RBPT,01:27:38,57.0,2023
+2023-05-28,Europe,Monaco,Circuit de Monaco,Max Verstappen,Red Bull Racing Honda RBPT,01:48:51,78.0,2023
+2023-06-04,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing Honda RBPT,01:27:57,66.0,2023
+2023-06-18,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing Honda RBPT,01:33:58,70.0,2023
+2023-07-02,Europe,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda RBPT,01:25:33,71.0,2023
+2023-07-09,Europe,Great Britain,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:25:16,52.0,2023
+2023-07-23,Europe,Hungary,Hungaroring,Max Verstappen,Red Bull Racing Honda RBPT,01:38:08,70.0,2023
+2023-07-30,Europe,Belgium,Circuit de Spa Francorchamps,Max Verstappen,Red Bull Racing Honda RBPT,01:22:30,44.0,2023
+2023-08-27,Europe,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing Honda RBPT,02:24:04,72.0,2023
+2023-09-03,Europe,Italy,Autodromo Nazionale di Monza,Max Verstappen,Red Bull Racing Honda RBPT,01:13:41,51.0,2023
+2023-09-17,Asia,Singapore,Marina Bay Street Circuit,Carlos Sainz,Ferrari,01:46:37,62.0,2023
+2023-09-24,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing Honda RBPT,01:30:58,53.0,2023
+2023-10-08,Asia,Qatar,Lusail International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:27:39,57.0,2023
+2023-10-22,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda RBPT,01:35:21,56.0,2023
+2023-10-29,North America,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing Honda RBPT,02:02:30,71.0,2023
+2023-11-05,South America,Brazil,Autodromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda RBPT,01:56:48,71.0,2023
+2023-11-18,North America,United States,Circuit of the Americas,Max Verstappen,Red Bull Racing Honda RBPT,01:29:08,50.0,2023
+2023-11-26,Asia,Abu Dhabi,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:27:02,58.0,2023
+2024-03-02,Asia,Sakhir,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:31:44,57.0,2024
+2024-03-09,Asia,Saudi Arabia,Jeddah Corniche Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:20:43,50.0,2024
+2024-03-24,Oceania,Australia,Albert Park Circuit,Carlos Sainz,Ferrari,01:20:26,58.0,2024
+2024-04-07,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing Honda RBPT,01:54:23,53.0,2024
+2024-04-21,Asia,China,Shanghai International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:40:52,56.0,2024
+2024-05-05,North America,United States,Miami International Autodrome,Lando Norris,McLaren Mercedes,01:30:49,57.0,2024
+2024-05-19,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing Honda RBPT,01:25:25,63.0,2024
+2024-05-26,Europe,Monaco,Circuit de Monaco,Charles Leclerc,Ferrari,02:23:15,78.0,2024
+2024-06-09,North America,Canada,Circuit Gilles Villeneuve,Max Verstappen,Red Bull Racing Honda RBPT,01:45:47,70.0,2024
+2024-06-23,Europe,Spain,Circuit de Barcelona Catalunya,Max Verstappen,Red Bull Racing Honda RBPT,01:28:20,66.0,2024
+2024-06-30,Europe,Austria,Red Bull Ring,George Russell,Mercedes,01:24:22,71.0,2024
+2024-07-07,Europe,Great Britain,Silverstone Circuit,Lewis Hamilton,Mercedes,01:22:27,52.0,2024
+2024-07-21,Europe,Hungary,Hungaroring,Oscar Piastri,McLaren Mercedes,01:38:01,70.0,2024
+2024-07-28,Europe,Belgium,Circuit de Spa Francorchamps,Lewis Hamilton,Mercedes,01:19:57,44.0,2024
+2024-08-25,Europe,Netherlands,Circuit Zandvoort,Lando Norris,McLaren Mercedes,01:30:45,72.0,2024
+2024-09-01,Europe,Italy,Autodromo Nazionale di Monza,Charles Leclerc,Ferrari,01:14:40,53.0,2024
+2024-09-15,Asia,Azerbaijan,Baku City Circuit,Oscar Piastri,McLaren Mercedes,01:32:58,51.0,2024
+2024-09-22,Asia,Singapore,Marina Bay Street Circuit,Lando Norris,McLaren Mercedes,01:40:52,62.0,2024
+2024-10-20,North America,United States,Circuit of the Americas,Charles Leclerc,Ferrari,01:35:09,56.0,2024
+2024-10-27,North America,Mexico,Autódromo Hermanos Rodríguez,Carlos Sainz,Ferrari,01:40:55,71.0,2024
+2024-11-03,South America,Brazil,Autodromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda RBPT,02:06:54,69.0,2024
+2024-11-23,North America,United States,Las Vegas Strip Circuit,George Russell,Mercedes,01:22:05,50.0,2024
+2024-12-01,Asia,Qatar,Lusail International Circuit,Max Verstappen,Red Bull Racing Honda RBPT,01:31:05,57.0,2024
+2024-12-08,Asia,Abu Dhabi,Yas Marina Circuit,Lando Norris,McLaren Mercedes,01:26:33,58.0,2024
+2025-03-16,Oceania,Australia,Albert Park Circuit,Lando Norris,McLaren,01:42:06,57.0,2025
+2025-03-23,Asia,China,Shanghai International Circuit,Oscar Piastri,McLaren,01:30:55,56.0,2025
+2025-04-06,Asia,Japan,Suzuka International Racing Course,Max Verstappen,Red Bull Racing,01:22:06,53.0,2025
+2025-04-13,Asia,Sakhir,Bahrain International Circuit,Oscar Piastri,McLaren,01:35:39,57.0,2025
+2025-04-20,Asia,Saudi Arabia,Jeddah Corniche Circuit,Oscar Piastri,McLaren,01:21:06,50.0,2025
+2025-05-04,North America,United States,Miami International Autodrome,Oscar Piastri,McLaren,01:28:51,57.0,2025
+2025-05-18,Europe,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing,01:31:33,63.0,2025
+2025-05-25,Europe,Monaco,Circuit de Monaco,Lando Norris,McLaren,01:40:33,78.0,2025
+2025-06-01,Europe,Spain,Circuit de Barcelona Catalunya,Oscar Piastri,McLaren,01:32:57,66.0,2025
+2025-06-15,North America,Canada,Circuit Gilles Villeneuve,George Russell,Mercedes,01:31:52,70.0,2025
+2025-06-29,Europe,Austria,Red Bull Ring,Lando Norris,McLaren,01:23:47,70.0,2025
+2025-07-06,Europe,Great Britain,Silverstone Circuit,Lando Norris,McLaren,01:37:15,52.0,2025
+2025-07-27,Europe,Belgium,Circuit de Spa Francorchamps,Oscar Piastri,McLaren,01:25:22,44.0,2025
+2025-08-03,Europe,Hungary,Hungaroring,Lando Norris,McLaren,01:35:21,70.0,2025
